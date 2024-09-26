@@ -1,0 +1,121 @@
+/* ---------------------------------------------------------------------------- */
+
+html {
+    font-size: 62.5%;
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background: hsl(257, 40%, 49%) url(../images/bg-desktop.svg) no-repeat center / cover;
+}
+
+/* ---------------------------------------------------------------------------- */
+
+/* CABEÇALHO */
+
+.logo {
+    margin: 40px 0px 50px 60px;
+}
+
+.logo img {
+    width: 200px;
+}
+
+/* ---------------------------------------------------------------------------- */
+
+/* CONTEÚDO PRINCIPAL */
+
+.content {
+    display: flex;
+    margin-left: 60px;
+}
+
+.illustration {
+    margin-right: 100px;
+
+}
+
+.illustration img {
+    width: 900px;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    margin-top: 70px;
+}
+
+.info h1 {
+    font-weight: 600;
+    font-size: 5rem;
+    font-family: "Poppins", sans-serif;
+    color: #ffffff;
+    line-height: 70px;
+    margin-bottom: 50px;
+    width: 100%;
+}
+
+.info p {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    font-size: 2.2rem;
+    color: #fff;
+    line-height: 35px;
+    margin-bottom: 40px;
+    width: 100%;
+}
+
+.info a {
+    font-family: "Open Sans", sans-serif;
+    font-size: 18px;
+    width: 250px;
+    padding: 15px 20px;
+    border-radius: 50px;
+    color: hsl(257, 40%, 49%);
+    background-color: #ffffff;
+    text-align: center;
+    transition: 0.3s ease-in-out;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.info a:hover {
+    background-color: hsl(300, 69%, 71%);
+    color: #ffffff;
+}
+
+/* ---------------------------------------------------------------------------- */
+
+/* RODAPÉ */
+
+.socials {
+    display: flex;
+    justify-content: end;
+    padding-right: 150px;
+    /* margin: 10px 150px 50px 0; */
+}
+
+.socials a {
+    padding: 10px;
+}
+
+.socials a i {
+    font-size: 1.5rem;
+    border: 1px solid #ffffff;
+    border-radius: 50%;
+    padding: 1.5rem;
+    color: #ffffff;
+    width: 4rem;
+    height: 4rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease-in-out;
+}
+
+.socials a i:hover {
+    color: hsl(300, 69%, 71%);
+    border-color: hsl(300, 69%, 71%);
+}
+
+/* ---------------------------------------------------------------------------- */
