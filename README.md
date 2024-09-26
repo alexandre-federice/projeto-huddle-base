@@ -1,13 +1,13 @@
 # Huddle Base Landing Page
 
-[![Status do Projeto](https://img.shields.io/badge/status-em%20desenvolvimento-orange)](https://github.com/alexandre-federice/projeto-huddle-base) 
+[![Status do Projeto](https://img.shields.io/badge/status-concluído-brightgreen)](https://github.com/alexandre-federice/projeto-huddle-base) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 Este é o repositório do **Huddle Base**, um projeto de landing page criado como parte de um desafio da plataforma Frontend Mentor.
 
 ## Descrição
 
-O projeto visa replicar uma landing page com design moderno, focado em uma interface limpa e responsiva. É perfeito para quem busca uma base sólida para estudos ou aprimoramento de habilidades em **HTML**, **CSS** e **JavaScript**.
+O projeto visa replicar uma landing page com design moderno, focado em uma interface limpa e responsiva. É perfeito para quem busca uma base sólida para estudos ou aprimoramento de habilidades em **HTML** & **CSS** avançados.
 
 ## Instalação
 
@@ -74,5 +74,5 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://opensour
 
 ---
 
-_Feito com 💙 por [Alexandre Federice](https://github.com/alexandre-federice)._
+_Feito com 🖤 por [Alexandre Federice](https://github.com/alexandre-federice)._
 ```
